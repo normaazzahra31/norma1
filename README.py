@@ -1,2 +1,2 @@
-### *Nama : Norma Azzahra Widyasti*
-### *NIM : 220322601303*
+Print ("Nama : Norma Azzahra Widyasti")
+Print("NIM : 220322601303")
